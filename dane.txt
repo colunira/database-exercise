@@ -1,0 +1,5 @@
+user 19559539_example
+password prog_ob_1234
+database 19559539_example
+port 3306
+server serwer1647118.home.pl
